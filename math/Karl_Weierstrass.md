@@ -4,8 +4,15 @@
 > 「一個數學家，如果他內心不具備一點詩人的氣質，他就不可能成為完美的數學家。」  
 > —— Karl Weierstrass
 
-![Karl Weierstrass](https://upload.wikimedia.org/wikipedia/commons/f/f1/Karl_Weierstrass.jpg)
-*Source: Wikimedia Commons (Public Domain)*
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Karl_Weierstrass.jpg" width="300" alt="Karl Weierstrass">
+  <br>
+  <i>Karl Weierstrass, 現代分析之父
+  <br>
+  Source: Wikimedia Commons (Public Domain)
+  </i>
+</p>
+
 
 Karl Weierstrass（魏爾斯特拉斯）被譽為 **「現代分析之父」**。他最大的貢獻在於將微積分從依賴「幾何直觀」的模糊狀態，推向了以「算術化（Arithmetization）」為基礎的嚴謹邏輯，而 (ϵ,δ) 定義正是他為了徹底排除「無限小」這種模糊概念而鑄造的終極武器。
 
