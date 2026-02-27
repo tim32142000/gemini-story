@@ -3,6 +3,13 @@
 這是一個關於《死亡筆記本》第二輪（Meta-knowledge enabled）的智鬥設定集。
 當「超自然暗殺」遇上「頂尖科技」，博弈的本質從「躲貓貓」演變為「系統架構的崩潰與防禦」
 
+<br>
+
+![](./image/Gemini_DeathCode001.jpg)  
+<br>
+![](./image/Gemini_DeathCode002.jpg)
+
+<br>
 
 ## ⚖️ 二創聲明
 本作品衍生自大場鶇與小畑健之作品《Death Note》。本故事所涉及之核心設定與角色版權歸原權利人所有，本文由 Gemini 生成，僅供交流分享，不具備商業用途。
