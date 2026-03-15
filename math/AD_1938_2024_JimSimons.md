@@ -1,5 +1,14 @@
 # Jim Simons (1938-2024)
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jim_Simons_at_MSRI.jpg/960px-Jim_Simons_at_MSRI.jpg" width="300" alt="Jim Simons">
+  <br>
+  <i>Jim Simons in 2007
+  <br>
+  By Gleuschk - Own work, CC BY-SA 3.0, 
+  </i>
+</p>
+
 提到吉姆·西蒙斯（Jim Simons），他的人生就像是一場跨越純粹理型與世俗財富的完美實驗。他不僅在幾何學領域留下了不可磨滅的印記，更用數學「破解」了華爾街的密碼。  
 ## 吉姆·西蒙斯：從幾何大師到量化之王
 
@@ -39,6 +48,6 @@
 
 ---
 
->**「我不穿襪子，但我贏了華爾街。」**
+**「我不穿襪子，但我贏了華爾街。」**
 
-> 西蒙斯常被拿來與愛因斯坦相比（同樣不愛穿襪子），他的一生證明了抽象的數學思維不僅能探索宇宙的深層結構，也能在充滿噪音的現實市場中找到秩序。
+西蒙斯常被拿來與愛因斯坦相比（同樣不愛穿襪子），他的一生證明了抽象的數學思維不僅能探索宇宙的深層結構，也能在充滿噪音的現實市場中找到秩序。
