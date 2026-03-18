@@ -28,4 +28,6 @@ A collection of stories co-created with Google Gemini.
 -->
 
 ---
+Gemini 是 AI，有時可能會出錯。  
+
 *Generated with ❤️ by Gemini*
