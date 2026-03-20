@@ -1,8 +1,9 @@
 # Max Planck (1858-1947)
 > 「我並不期望發現新大陸，只希望理解已經存在的物理學基礎，或許能將其加深。」  
-> "I do not desire to discover new continents, but only to understand the existing foundations of physical science, and perhaps to deepen them.> —— Max Planck  
+> "I do not desire to discover new continents, but only to understand the existing foundations of physical science, and perhaps to deepen them.  
+> —— Max Planck  
 
-普朗克（Max Planck, 1858–1947）的故事之所以動人，是因為他並非天生的「反叛者」，而是一個極致的「守護者」。他的一生是「悲劇性的英雄主義」縮影：他原本只想在經典物理的框架下尋求真理，卻意外開啟了量子革命。充滿了對科學的忠誠，以及晚年痛失四名子女與反對納粹暴政的個人悲劇，展現了極高的人格襟懷。  
+普朗克（Max Karl Ernst Ludwig Planck, 1858–1947）的故事之所以動人，是因為他並非天生的「反叛者」，而是一個極致的「守護者」。他的一生是「悲劇性的英雄主義」縮影：他原本只想在經典物理的框架下尋求真理，卻意外開啟了量子革命。充滿了對科學的忠誠，以及晚年痛失四名子女與反對納粹暴政的個人悲劇，展現了極高的人格襟懷。  
 
 ### 1. 普朗克的青少年時期
 
