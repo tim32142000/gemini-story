@@ -1,7 +1,10 @@
 # Gemini Story  
-A collection of stories co-created with Google Gemini.
 
-這是一個存放、整理與紀錄由 Google Gemini 生成故事的存儲庫。
+![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange)  
+
+這是一個存放、整理與紀錄由 Google Gemini 生成故事的存儲庫。  
+
+A collection of stories co-created with Google Gemini.
 
 ## 📜 權利與免責聲明 (Legal & Disclaimer)
 - **創作協作**：內容主體由 Google Gemini 生成，本人整理。
