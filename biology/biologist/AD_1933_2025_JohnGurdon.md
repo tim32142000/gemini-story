@@ -1,18 +1,18 @@
 # John Gurdon (1933–2025)  
 
-<!--
+
 <p align="left">
-  <img src="https://.jpg" width="300" alt="Name">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/John_Gurdon_Cambridge_2012.JPG" width="300" alt="John Gurdon">
   <br>
-  <i>Name
+  <i>Gurdon in 2012
   <br>
-  Source:
+  By <a href="//commons.wikimedia.org/wiki/User:Deryck_Chan" title="User:Deryck Chan">Deryck Chan</a>, courtesy to cameraman Sien Yi Tan. - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22009185">Link</a>
   </i>
 </p>
--->
 
 
-約翰·格登爵士（Sir John B. Gurdon）的故事是科學史上最著名的「大器晚成」與「逆襲」典範。儘管 15 歲時被生物老師評為「想當科學家是荒謬的」，他卻在 60 年後憑藉細胞核移植（Nuclear Transfer）技術獲得諾貝爾獎，證明了成熟細胞的神經元或皮膚細胞可以被「重新編程」回原始狀態。
+
+約翰·格登爵士（Sir John Bertrand Gurdon）的故事是科學史上最著名的「大器晚成」與「逆襲」典範。儘管 15 歲時被生物老師評為「想當科學家是荒謬的」，他卻在 60 年後憑藉細胞核移植（Nuclear Transfer）技術獲得諾貝爾獎，證明了成熟細胞的神經元或皮膚細胞可以被「重新編程」回原始狀態。
 
 ---
 
@@ -48,7 +48,7 @@
 
 
 ---
-### 格登的成績單
+### 格登的生物課成績單
 
 #### 科學報告 (SCIENCE REPORT)
 
@@ -62,4 +62,4 @@
 
 這是一個災難性的半年。他的表現遠不能令人滿意。他準備的內容學得很糟糕，好幾份測試作品都被撕掉；其中一份準備作業在總分 50 分中僅得了 2 分。
 
-他的其他工作也同樣糟糕。他好幾次陷入麻煩，因為他不聽勸告，堅持要用自己的方式做事。我相信他有想成為一名科學家的念頭；以他目前的表現來看，這簡直是無稽之談（quite ridiculous）。如果他連簡單的生物學事實都學不會，他根本沒機會從事專家的工作，這對他自己以及教導他的人來說，都純粹是在浪費時間。
+他的其他工作也同樣糟糕。他好幾次陷入麻煩，因為他不聽勸告，堅持要用自己的方式做事。我相信他有想成為一名科學家的念頭；以他目前的表現來看，這簡直是無稽之談（quite ridiculous）。如果他連簡單的生物學事實都學不會，他根本沒機會從事專家的工作，這對他自己以及教導他的人來說，都純粹是在浪費時間。  
