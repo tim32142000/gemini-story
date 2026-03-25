@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/PSM_V82_D416_Henri_Poincare.png" width="300" alt="Karl Weierstrass">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/PSM_V82_D416_Henri_Poincare.png" width="300" alt="Henri Poincaré">
   <br>
   <i>Henri Poincaré
   <br>
