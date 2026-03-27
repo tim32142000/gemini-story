@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg" width="300" alt="Leonhard Euler">
   <br>
-  <i>Leonhard Euler
+  <i>1753 portrait
   <br>
   By <a href="https://en.wikipedia.org/wiki/en:Jakob_Emanuel_Handmann" class="extiw" title="w:en:Jakob Emanuel Handmann"><span title="Swiss painter specialised in portrait painting (1718–1781)">Jakob Emanuel Handmann</span></a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg" title="File:Leonhard Euler.jpg">Leonhard Euler.jpg</a>Edited by: <a href="//commons.wikimedia.org/wiki/User:Bammesk" title="User:Bammesk">Bammesk</a>Original source: <a rel="nofollow" class="external text" href="http://sammlungonline.kunstmuseumbasel.ch/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=1429&amp;viewType=detailView">Kunstmuseum Basel</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=113056351">Link</a>
   </i>
