@@ -7,9 +7,9 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Karl_Weierstrass.jpg" width="300" alt="Karl Weierstrass">
   <br>
-  <i>Karl Weierstrass, 現代分析之父
-  <br>
-  Source: Wikimedia Commons (Public Domain)
+  Karl Weierstrass
+  <br><i>
+  Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=324146">Link</a>
   </i>
 </p>
 

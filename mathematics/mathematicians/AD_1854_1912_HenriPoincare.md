@@ -8,8 +8,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/PSM_V82_D416_Henri_Poincare.png" width="300" alt="Henri Poincaré">
   <br>
-  <i>Henri Poincaré
-  <br>
+  Henri Poincaré
+  <br><i>
   By Unknown author - <a rel="nofollow" class="external text" href="https://archive.org/details/popularsciencemo82newy">Popular Science Monthly Volume 82</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=20644432">Link</a>
   </i>
 </p>

@@ -1,4 +1,4 @@
-# Fubini's theorem
+# Fubini's Theorem
 
 **富比尼定理（Fubini's Theorem）** 是多重積分中的核心定理，它指出在滿足一定條件下（通常是函數連續或絕對可積），**多重積分可以轉化為累次積分（Iterated Integrals）來計算，且積分順序不影響最終結果**。這在物理模擬、機率論與高維數據處理中極為重要。  
 

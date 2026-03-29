@@ -7,14 +7,14 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carl_Jacobi.jpg" width="300" alt="Carl Jacobi">
   <br>
-  <i>Carl Gustav Jacob Jacobi
-  <br>
-  <a rel="nofollow" class="external free" href="http://www.sil.si.edu/digitalcollections/hst/scientific-identity/explore.htm">http://www.sil.si.edu/digitalcollections/hst/scientific-identity/explore.htm</a> (reworked), 公有領域, <a href="https://commons.wikimedia.org/w/index.php?curid=140344">連結</a>
+  Carl Gustav Jacob Jacobi
+  <br><i>
+  By Unknown author - <a rel="nofollow" class="external free" href="http://www.sil.si.edu/digitalcollections/hst/scientific-identity/explore.htm">http://www.sil.si.edu/digitalcollections/hst/scientific-identity/explore.htm</a> (reworked), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=140344">Link</a>
   </i>
 </p>
 
 
-**雅可比（Carl Jacobi）** 的一生是典型的「燃燒型天才」敘事。他出生於富裕的銀行世家，憑藉驚人的直覺在 20 多歲便震驚歐洲數學界。他將數學與力學視為純粹的藝術，拒絕將其工具化，並留下了「為了人類心靈榮耀」的名言。然而，他人生的下半場卻跌入破產、政治流亡與絕症的深淵，最終在負擔 8 個孩子的家計壓力與極度病痛中，守著方程式直到 46 歲因天花（Smallpox）驟逝。
+**雅可比（Carl Gustav Jacob Jacobi）** 的一生是典型的「燃燒型天才」敘事。他出生於富裕的銀行世家，憑藉驚人的直覺在 20 多歲便震驚歐洲數學界。他將數學與力學視為純粹的藝術，拒絕將其工具化，並留下了「為了人類心靈榮耀」的名言。然而，他人生的下半場卻跌入破產、政治流亡與絕症的深淵，最終在負擔 8 個孩子的家計壓力與極度病痛中，守著方程式直到 46 歲因天花（Smallpox）驟逝。
 
 ---
 

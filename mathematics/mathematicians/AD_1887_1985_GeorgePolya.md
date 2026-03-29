@@ -9,8 +9,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ETH-BIB-Polya%2C_Georg_%281887-1985%29-Portrait-Portr_13887-19-AL.tif/lossy-page1-500px-ETH-BIB-Polya%2C_Georg_%281887-1985%29-Portrait-Portr_13887-19-AL.tif.jpg" width="300" alt="George Pólya">
   <br>
-  <i>Pólya, before 1935
-  <br>
+  Pólya, before 1935
+  <br><i>
   By Unbekannt - This image is from the collection of the <a href="//commons.wikimedia.org/wiki/User:ETH-Bibliothek" title="User:ETH-Bibliothek">ETH-Bibliothek</a> and has been published on Wikimedia Commons as part of a cooperation with <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Wikimedia_CH" title="Special:MyLanguage/Commons:Wikimedia CH">Wikimedia CH</a>. Corrections and additional information are welcome., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=94150415">Link</a>
   </i>
 </p>
@@ -85,7 +85,7 @@
 
 1905 年，物理學界還在爭論原子是否真實存在。愛因斯坦觀察到液體中懸浮微粒的抖動（布朗運動），他意識到這不是微粒自己在動，而是被無數看不見的分子撞擊。
 
-- **他的突破**：他避開了追蹤單一粒子的路徑（因為那太混亂了），轉而計算粒子群體的**擴散規律**。他發現位移的平方平均值與時間成正比：$⟨x^2⟩=2Dt$。
+- **他的突破**：他避開了追蹤單一粒子的路徑（因為那太混亂了），轉而計算粒子群體的**擴散規律**。他發現位移的平方平均值與時間成正比： $⟨x^2⟩=2Dt$ 。
 
 - **意義**：這是一個物理勝利，他用「隨機性」抓住了物質的本質。
 

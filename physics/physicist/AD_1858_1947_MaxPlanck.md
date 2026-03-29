@@ -6,15 +6,15 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg" width="300" alt="Karl Weierstrass">
   <br>
-  <i>Max Planck
-  <br>
+  Planck in 1938
+  <br><i>
   By <a href="https://en.wikipedia.org/wiki/en:Hugo_Erfurth" class="extiw" title="w:en:Hugo Erfurth"><span title="German photographer (1874–1948)">Hugo Erfurth</span></a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Max_Planck_by_Hugo_Erfurth_1938cr.jpg" title="File:Max Planck by Hugo Erfurth 1938cr.jpg">Max Planck by Hugo Erfurth 1938cr.jpg</a> <br> Original source: <a rel="nofollow" class="external free" href="https://www.dhm.de/lemo/bestand/objekt/max-planck">https://www.dhm.de/lemo/bestand/objekt/max-planck</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=153625300">Link</a>
   </i>
 </p>
 
 ---
 
-普朗克（Max Karl Ernst Ludwig Planck, 1858–1947）的故事之所以動人，是因為他並非天生的「反叛者」，而是一個極致的「守護者」。他的一生是「悲劇性的英雄主義」縮影：他原本只想在經典物理的框架下尋求真理，卻意外開啟了量子革命。充滿了對科學的忠誠，以及晚年痛失四名子女與反對納粹暴政的個人悲劇，展現了極高的人格襟懷。  
+**普朗克（Max Karl Ernst Ludwig Planck）** 的故事之所以動人，是因為他並非天生的「反叛者」，而是一個極致的「守護者」。他的一生是「悲劇性的英雄主義」縮影：他原本只想在經典物理的框架下尋求真理，卻意外開啟了量子革命。充滿了對科學的忠誠，以及晚年痛失四名子女與反對納粹暴政的個人悲劇，展現了極高的人格襟懷。  
 
 ### 1. 普朗克的青少年時期
 

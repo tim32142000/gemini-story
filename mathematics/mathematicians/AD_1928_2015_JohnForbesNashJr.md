@@ -8,8 +8,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg" width="300" alt="John Forbes Nash Jr.">
   <br>
-  <i>Nash in the 2000s
-  <br>
+  Nash in the 2000s
+  <br><i>
   By Peter Badge / Typos1 - submission by way of Jimmy Wales, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=6977799">Link</a>
   </i>
 </p>

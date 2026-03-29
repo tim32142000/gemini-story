@@ -8,8 +8,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Augustin-Louis_Cauchy_1901.jpg" width="300" alt="Augustin-Louis Cauchy">
   <br>
-  <i>Augustin-Louis Cauchy
-  <br>
+  Cauchy around 1840. Lithography by Zéphirin Belliard after a painting by Jean Roller.
+  <br><i>
   By Public domain - Library of Congress Prints and Photographs Division. From an illustration in: Das neunzehnte Jahrhundert in Bildnissen / Karl Werckmeister, ed. Berlin&nbsp;: Kunstverlag der photographische gesellschaft, 1901, vol. V, no. 581., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7059486">Link</a>
   </i>
 </p>

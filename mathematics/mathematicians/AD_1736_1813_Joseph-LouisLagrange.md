@@ -8,8 +8,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Lagrange_crop.jpg" width="300" alt="Joseph-Louis Lagrange">
   <br>
-  <i>Joseph-Louis Lagrange
-  <br>
+  Joseph-Louis Lagrange
+  <br><i>
   By Unknown author - <a href="//commons.wikimedia.org/wiki/File:Joseph_Louis_Lagrange.jpg" title="File:Joseph Louis Lagrange.jpg">File:Joseph_Louis_Lagrange.jpg</a>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=155608232">Link</a>
   </i>
 </p>

@@ -3,13 +3,14 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/BobMayHarvard_%28cropped2%29.jpg" width="300" alt="Robert May">
   <br>
-  <i>Robert May in 2009
-  <br>
+  May in 2009
+  <br><i>
   By <a href="//commons.wikimedia.org/w/index.php?title=User:NBeale&amp;action=edit&amp;redlink=1" class="new" title="User:NBeale (page does not exist)">NBeale</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130382565">Link</a>
   </i>
 </p>
+<br><br>
 
-羅伯特·梅（Robert May, 1936–2020）是 20 世紀最具影響力的科學家之一，他成功將**數學建模**引入生態學與流行病學，徹底改變了我們對自然界複雜性的理解。羅伯特·梅的一生是從**理論物理學**轉向**理論生態學**的傳奇跨界。他最著名的貢獻在於發現簡單的數學方程（如 Logistic map）可以產生極其複雜且不可預測的行為，這為**混沌理論（Chaos Theory）** 奠定了基礎。他不僅是學術大師，更曾擔任英國政府首席科學顧問，在全球氣候變遷與生物多樣性議題上發揮了關鍵政治影響力。
+**羅伯特·梅（Robert McCredie May, Baron May of Oxford）** 是 20 世紀最具影響力的科學家之一，他成功將**數學建模**引入生態學與流行病學，徹底改變了我們對自然界複雜性的理解。羅伯特·梅的一生是從**理論物理學**轉向**理論生態學**的傳奇跨界。他最著名的貢獻在於發現簡單的數學方程（如 Logistic map）可以產生極其複雜且不可預測的行為，這為**混沌理論（Chaos Theory）** 奠定了基礎。他不僅是學術大師，更曾擔任英國政府首席科學顧問，在全球氣候變遷與生物多樣性議題上發揮了關鍵政治影響力。
 
 ---
 

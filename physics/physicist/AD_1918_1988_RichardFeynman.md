@@ -1,15 +1,22 @@
-# Richard Feynman
+# Richard Feynman (1918-1988)
+> 「我寧可有無法回答的問題，也不要那些不容質疑的答案。」  
+> "I would rather have questions that can't be answered than answers that can't be questioned."  
+> Richard Feynman  
+
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg" width="300" alt="Karl Weierstrass">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg" width="300" alt="Richard Feynman">
   <br>
-  <i>Richard Phillips Feynman
-  <br>
+  Feynman circa 1965
+  <br><i>
   By The Nobel Foundation - <a rel="nofollow" class="external free" href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-bio.html">http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-bio.html</a>, <a href="//en.wikipedia.org/wiki/File:Richard_Feynman_Nobel.jpg" title="Public domain in Sweden">PD-Sweden</a>, <a href="https://en.wikipedia.org/w/index.php?curid=34664654">Link</a>
   </i>
 </p>
+<br><br>
 
 理查·費曼的一生可以說是一場巨大的「解謎遊戲」。對於他來說，無論是物理定律、保險箱密碼，還是巴西的桑巴鼓，本質上都是可以被拆解並理解的系統。
+
+---
 
 ## 理查·費曼：將直覺視覺化的「解謎大師」
 

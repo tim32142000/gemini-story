@@ -8,11 +8,12 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lise_Meitner_NatGeo.jpg" width="300" alt="Dr. Lise Meitner, Austrian physicist, three-quarter length portrait">
   <br>
-  <i>Lise Meitner
-  <br>
+  Meitner, c. 1960
+  <br><i>
   By Harris &amp; Ewing - <a rel="nofollow" class="external free" href="https://www.nationalgeographic.com/science/article/nobel-prize-winners-laureates-charts-graphics-science">https://www.nationalgeographic.com/science/article/nobel-prize-winners-laureates-charts-graphics-science</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=159322196">Link</a>
   </i>
 </p>
+<br><br>
 
 **莉澤·邁特納**（**Elise "Lise" Meitner**）是一位在物理學史上極具影響力，卻也因性別與族裔身份而歷經坎坷的科學家。她與奧托·哈恩（Otto Hahn）長年合作，並在流亡期間跨學科地解釋了核分裂（Nuclear Fission）的物理機制。儘管她的貢獻是原子能時代的基石，她卻未獲得諾貝爾獎的肯定，並在晚年堅定地反對將科學發現用於武器化。
 

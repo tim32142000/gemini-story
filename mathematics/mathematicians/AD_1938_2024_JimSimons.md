@@ -3,13 +3,17 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jim_Simons_at_MSRI.jpg/960px-Jim_Simons_at_MSRI.jpg" width="300" alt="Jim Simons">
   <br>
-  <i>Jim Simons in 2007
-  <br>
+  Simons in 2007
+  <br><i>
   By <a href="//commons.wikimedia.org/w/index.php?title=User:Gleuschk&amp;action=edit&amp;redlink=1" class="new" title="User:Gleuschk (page does not exist)">Gleuschk</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3426834">Link</a>
   </i>
 </p>
+<br><br>
 
-提到吉姆·西蒙斯（Jim Simons），他的人生就像是一場跨越純粹理型與世俗財富的完美實驗。他不僅在幾何學領域留下了不可磨滅的印記，更用數學「破解」了華爾街的密碼。  
+**吉姆·西蒙斯（James Harris Simons）**，他的人生就像是一場跨越純粹理型與世俗財富的完美實驗。他不僅在幾何學領域留下了不可磨滅的印記，更用數學「破解」了華爾街的密碼。  
+
+---
+
 ## 吉姆·西蒙斯：從幾何大師到量化之王
 
 **1. 少年得志與幾何學的巔峰**
