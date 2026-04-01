@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lise_Meitner_NatGeo.jpg" width="300" alt="Dr. Lise Meitner, Austrian physicist, three-quarter length portrait">
   <br>
-  Meitner, c. 1960
+  Meitner, circa 1960
   <br><i>
   By Harris &amp; Ewing - <a rel="nofollow" class="external free" href="https://www.nationalgeographic.com/science/article/nobel-prize-winners-laureates-charts-graphics-science">https://www.nationalgeographic.com/science/article/nobel-prize-winners-laureates-charts-graphics-science</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=159322196">Link</a>
   </i>

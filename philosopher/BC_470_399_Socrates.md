@@ -1,0 +1,94 @@
+# Socrates (470-399 BC)
+<!--
+>  
+>   
+> 
+-->
+
+<p align="left">
+  <a href="https://commons.wikimedia.org/wiki/File:Socrate_du_Louvre.jpg#/media/File:Socrate_du_Louvre.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Socrate_du_Louvre.jpg" alt="Socrate du Louvre.jpg"  width="300"></a><br>Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.<br>
+  <i>By <a href="//commons.wikimedia.org/wiki/User:Sting" title="User:Sting">Sting</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=96296061">Link</a></i>
+</p>
+
+<br><br>
+
+**蘇格拉底（Socrates）** 是古希臘哲學的奠基者，他並未留下任何著作，其思想主要透過學生柏拉圖（Plato）與色諾芬（Xenophon）的記載流傳。他一生致力於透過問答法（Socratic Method）追求真理，最終被雅典法庭以「不敬神」與「腐蝕青年」為由處死。
+
+---
+
+### 1. 早年生活與背景
+
+蘇格拉底出生於雅典的一個普通家庭，父親是一名石匠（Stonecutter），母親則是助產士（Midwife）。據傳他早年曾繼承父業從事雕刻，並在伯羅奔尼撒戰爭（Peloponnesian War）期間作為重裝步兵（Hoplite）參戰，表現出驚人的勇氣與耐力。
+
+與當時向學生收取學費的智者（Sophists）不同，蘇格拉底通常在雅典的廣場（Agora）或體育館與人交談，且從不收費。
+
+### 2. 德爾菲神諭與「無知之知」
+
+蘇格拉底的人生轉折點源於他的朋友凱勒豐（Chaerephon）去德爾菲（Delphi）神廟求得的一則神諭：**「沒有人比蘇格拉底更聰明。」**
+
+蘇格拉底對此感到困惑，因為他深知自己一無所知。為了驗證神諭，他開始訪問當地的政治家、詩人與工匠，卻發現這些自詡聰明的人其實對事物的本質並不了解。他最後得出結論：
+
+「我比他人聰明之處，僅在於我承認自己的無知。」  
+（I know that I am intelligent, because I know that I know nothing.）
+
+### 3. 蘇格拉底教學法
+
+他最著名的貢獻是 **「反詰法」（Elenchus）**，又稱為 **「助產術」**。他模仿母親的職業，認為自己不生產知識，而是透過不斷的提問，幫助對話者發現自己邏輯中的矛盾，進而「產出」真理。
+
+這種方法雖然啟發了許多年輕人（包括柏拉圖），卻也讓許多社會名流感到難堪，為他日後的悲劇埋下了伏筆。  
+
+### 4. 審判與殉道
+
+西元前 399 年，雅典剛經歷戰爭失敗與政局動盪，社會充滿不安。蘇格拉底被三名公民控告：
+
+- **不敬神**：指控他引進新神。
+
+- **腐蝕青年**：指控他教導年輕人懷疑傳統權威。
+
+在法庭辯論（Apology）中，蘇格拉底拒絕妥協。他將自己比作一隻 **「牛虻」（Gadfly）**，職責是叮咬雅典這匹遲鈍的懶馬，使其保持清醒。最終，陪審團判處他死刑。
+
+儘管學生們已安排好越獄計畫，蘇格拉底卻以「契約精神」為由拒絕逃亡，認為公民必須遵守法律，否則社會將崩潰。
+
+蘇格拉底在獄中等待執刑的最後時光，主要記錄在柏拉圖的對話錄《克里托篇》（Crito）中。他的好友克里托曾試圖說服他逃亡，理由是這場審判本身就不公正。
+
+然而，蘇格拉底提出了著名的 **「法律契約論」**：
+
+- 他認為自己一生都享受雅典法律的保護與福利，這等同於與城邦簽下了默契契約。
+
+- 如果因為判決對自己不利就選擇破壞法律，這是不正義的行為。
+
+- 他主張「與其行不義，寧可受不義」，這種對原則的堅持，成為了後來**公民不服從（Civil Disobedience）** 等政治哲學討論的先驅。
+
+他最終在弟子們的圍繞下，神情從容地喝下毒芹汁（Hemlock）身亡。
+
+### 5. 「蘇格拉底問題」（The Socratic Problem）
+
+這是一個學術上的難題：由於蘇格拉底本人**述而不作**，我們對他的認識完全來自他人的轉述。
+
+- **柏拉圖（Plato）**：將蘇格拉底塑造成完美的哲學家，但在後期著作中，蘇格拉底往往成了柏拉圖表達自己觀點（如「理型論」）的代言人。
+
+- **色諾芬（Xenophon）**：筆下的蘇格拉底更像是一個實務、注重德行的道德導師，而非深奧的思想家。
+
+- **阿里斯托芬（Aristophanes）**：在喜劇《雲》（The Clouds）中將他惡搞成一個躲在「思想工廠」裡研究虛無縹緲之事的怪人。  
+
+這使得後世必須在這些矛盾的記載中，拼湊出最接近真實的蘇格拉底。
+
+### 6. 核心思想與對後世的深遠影響
+
+- **知行合一**：他主張「美德即知識」（Virtue is knowledge），認為沒人會故意作惡，惡源於無知。
+
+- **靈魂的照料**：他強調人應關注靈魂的完善，而非財富或名聲。
+
+蘇格拉底的出現，將希臘哲學的研究重點從「宇宙的起源」（自然哲學）轉向了 **「人應該如何生活」**（倫理學）。
+
+- **西方哲學之父**：他的學生柏拉圖隨後創立了學院（Academy），而柏拉圖的學生亞里斯多德（Aristotle）則進一步系統化了科學與邏輯，三人合稱「希臘三賢」。
+
+- **犬儒學派（Cynics）**：繼承了他對物質生活的淡泊與對傳統習俗的批判。
+
+- **斯多葛學派（Stoics）**：繼承了他對理性（Logos）的重視與面對死亡的平靜。
+
+- **現代教育**：蘇格拉底教學法（Socratic Method）至今仍是法學院與頂尖教育機構中，用來培養學生批判性思考（Critical Thinking）的核心工具。
+
+---
+
+蘇格拉底曾說：「未經審視的人生是不值得活的。」（The unexamined life is not worth living.）這句話至今仍提醒著我們，在繁忙的日常中，保持懷疑與反思的重要性。
