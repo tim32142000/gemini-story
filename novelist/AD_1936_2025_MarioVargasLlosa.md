@@ -3,7 +3,7 @@
 > "Reading allows you to travel, to make other people's experiences your own."  
 > —— Mario Vargas Llosa
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Mario_Vargas_Llosa_LCCN2020733847_%28cropped%29.png" width="300" alt="Mario Vargas Llosa">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mario_Vargas_Llosa_LCCN2020733847_%28cropped%29.png/960px-Mario_Vargas_Llosa_LCCN2020733847_%28cropped%29.png" width="300" alt="Mario Vargas Llosa">
   <br>
   Vargas Llosa in 1986
   <br><i>

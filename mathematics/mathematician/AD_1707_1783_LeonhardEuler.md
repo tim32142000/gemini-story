@@ -6,7 +6,7 @@
 -->
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg" width="300" alt="Leonhard Euler">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/960px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg" width="300" alt="1753 portrait">
   <br>
   1753 portrait
   <br><i>

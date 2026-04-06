@@ -1,7 +1,7 @@
-# Robert May (1936-2020)
+# Robert May, Baron May of Oxford (1936-2020)
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/BobMayHarvard_%28cropped2%29.jpg" width="300" alt="Robert May">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/BobMayHarvard_%28cropped2%29.jpg" width="300" alt="May in 2009">
   <br>
   May in 2009
   <br><i>

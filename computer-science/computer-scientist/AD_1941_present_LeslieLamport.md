@@ -1,7 +1,17 @@
-# Leslie Lamport
+# Leslie Lamport (1941-)
+> 「分散式系統就是當你甚至不知道它存在的某台電腦壞了，會導致你自己的電腦無法工作。」  
 > "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable."  
-> 「分散式系統就是當你甚至不知道存在的某台電腦壞了，會導致你自己的電腦無法工作。」  
 > —— Leslie Lamport
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Leslie_Lamport.jpg" width="300" alt="Lamport in 2008">
+  <br>
+  Lamport in 2008
+  <br><i>
+  By Leslie Lamport - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20080809045739/http://lamport.org/">https://web.archive.org/web/20080809045739/http://lamport.org/</a>Source of original version: <a rel="nofollow" class="external free" href="https://web.archive.org/web/20030204122708/http://lamport.org/">https://web.archive.org/web/20030204122708/http://lamport.org/</a>, Copyrighted free use, <a href="https://commons.wikimedia.org/w/index.php?curid=487587">Link</a>
+  </i>
+</p>
+<br><br>
 
 ## 從物理學到分散式系統的傳奇
 

@@ -4,7 +4,7 @@
 > —— Max Planck  
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg" width="300" alt="Karl Weierstrass">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg" width="300" alt="Planck in 1938">
   <br>
   Planck in 1938
   <br><i>

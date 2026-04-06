@@ -6,7 +6,7 @@
 -->
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg" width="300" alt="Albert Einstein">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg" width="300" alt="Einstein in 1947">
   <br>
   Einstein in 1947
   <br><i>
