@@ -1,4 +1,4 @@
-# Max Planck (1858-1947)
+# Max Planck (1858–1947)
 > 「我並不期望發現新大陸，只希望理解已經存在的物理學基礎，或許能將其加深。」  
 > "I do not desire to discover new continents, but only to understand the existing foundations of physical science, and perhaps to deepen them.  
 > —— Max Planck  

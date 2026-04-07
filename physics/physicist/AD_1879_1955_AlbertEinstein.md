@@ -1,4 +1,4 @@
-# Albert Einstein (1879-1955)
+# Albert Einstein (1879–1955)
 <!--
 > 
 >  

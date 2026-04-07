@@ -1,4 +1,4 @@
-# Mario Vargas Llosa (1936-2025)
+# Mario Vargas Llosa (1936–2025)
 > 閱讀讓你展開旅程，將他人的經驗化為己有。  
 > "Reading allows you to travel, to make other people's experiences your own."  
 > —— Mario Vargas Llosa

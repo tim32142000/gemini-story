@@ -1,4 +1,4 @@
-# Pierre-Gilles de Gennes (1932-2007)
+# Pierre-Gilles de Gennes (1932–2007)
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Pierre-Gilles_crop.jpg" width="300" alt="De Gennes">

@@ -1,7 +1,7 @@
-# Richard Feynman (1918-1988)
+# Richard Feynman (1918–1988)
 > 「我寧可有無法回答的問題，也不要那些不容質疑的答案。」  
 > "I would rather have questions that can't be answered than answers that can't be questioned."  
-> Richard Feynman  
+> —— Richard Feynman  
 
 
 <p align="left">

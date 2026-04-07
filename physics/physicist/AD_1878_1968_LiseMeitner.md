@@ -1,4 +1,4 @@
-# Lise Meitner (1878-1968)
+# Lise Meitner (1878–1968)
 <!--
 > 
 >  

@@ -1,4 +1,4 @@
-# Jim Simons (1938-2024)
+# Jim Simons (1938–2024)
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jim_Simons_at_MSRI.jpg/960px-Jim_Simons_at_MSRI.jpg" width="300" alt="Jim Simons">

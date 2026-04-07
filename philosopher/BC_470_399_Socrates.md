@@ -1,4 +1,4 @@
-# Socrates (470-399 BC)
+# Socrates (470–399 BC)
 <!--
 >  
 >   
