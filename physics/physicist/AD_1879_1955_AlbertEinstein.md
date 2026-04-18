@@ -1,9 +1,9 @@
 # Albert Einstein (1879–1955)
-<!--
-> 
->  
-> 
--->
+
+> 「邏輯能帶你從 A 到 Z；想像力則能帶你到任何地方。」  
+>  "Logic will get you from A to Z; imagination will get you everywhere."  
+> —— Albert Einstein
+
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg" width="300" alt="Einstein in 1947">

@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg" width="300" alt="Richard Feynman">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg" width="300" alt="Feynman circa 1965">
   <br>
   Feynman circa 1965
   <br><i>
@@ -66,3 +66,11 @@
 
 1988 年，費曼因癌症逝世，他留在黑板上的最後一句話是：**「凡我不能創造的，我就不能理解。」 <br> (What I cannot create, I do not understand.)**  
 對他來說，真正的理解不是看過文件，而是**能從零開始建構出那個系統**。
+
+---
+
+「科學家……對此早就習以為常。我們深知與『不確定性』共處是必要的。**科學家從不抱持絕對肯定的態度。** 我們心知肚明，也視其為理所當然：保持不確定是完全合理的，在未知中生活也是可能的。   
+……當一個科學家不知道問題的答案時，他是**無知的**；當他對結果有預感時，他是**不確定的**；而當他非常有把握結果會是如何時，他心中依然存有**些許懷疑**。我們發現，為了求進步，承認自己的無知並為懷疑保留空間，是至關重要且無比神聖的。」  
+"Scientists... are used to this. We know that it is necessary to live with uncertainty. **A scientist is never certain.** We all know that. We take it for granted that it is perfectly consistent to be unsure, that it is possible to live and not know.  
+...When a scientist doesn’t know the answer to a problem, he is **ignorant**. When he has a hunch as to what the result is, he is **uncertain**. And when he is pretty darn sure of what the result is going to be, he is still in **some doubt**. We have found it of paramount importance that in order to progress we must recognize our ignorance and leave room for doubt."  
+—— 費曼，演講《科學的價值》（*The Value of Science*）

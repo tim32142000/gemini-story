@@ -1,10 +1,12 @@
 # Max Planck (1858–1947)
 > 「我並不期望發現新大陸，只希望理解已經存在的物理學基礎，或許能將其加深。」  
-> "I do not desire to discover new continents, but only to understand the existing foundations of physical science, and perhaps to deepen them.  
+<!--
+> "I do not desire to discover new continents, but only to understand the existing foundations of physical science, and perhaps to deepen them."  
+-->
 > —— Max Planck  
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg" width="300" alt="Planck in 1938">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/960px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg" width="300" alt="Planck in 1938">
   <br>
   Planck in 1938
   <br><i>
