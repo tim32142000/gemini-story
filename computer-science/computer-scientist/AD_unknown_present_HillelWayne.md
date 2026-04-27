@@ -1,7 +1,7 @@
 # Hillel Wayne <!-- ( – ) -->
 
 > 「我寫這個（線上指南），是因為我想讓 TLA+ 盡可能地普及，我不希望這份教學像我的書那樣需要付費。」  
-> "I wrote this [online guide] because I want TLA+ to be as accessible as possible and didn’t like that my book cost money."  
+> "I wrote this (online guide) because I want TLA+ to be as accessible as possible and didn’t like that my book cost money."  
 > —— Hillel Wayne, [*Learn TLA+*](https://learntla.com/#about-me)
 
 <br>

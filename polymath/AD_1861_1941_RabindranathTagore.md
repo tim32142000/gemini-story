@@ -7,8 +7,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/1926_Rabindrath_Tagore.jpg" width="300" alt="Rabindranath Tagore">
   <br>
-  <i>Autochrome portrait, 1926
-  <br>
+  Autochrome portrait, 1926
+  <br><i>
   By <a href="https://en.wikipedia.org/wiki/en:Georges_Chevalier_(photographer)" class="extiw" title="w:en:Georges Chevalier (photographer)"><span title="French Photographer">Georges Chevalier</span></a> - <a rel="nofollow" class="external free" href="https://collections.albert-kahn.hauts-de-seine.fr/document/proprit-d-albert-kahn-boulogne-france-rabindranth-tagore/617a7a45cf8b8968b3386442?filtrerParThme%5B0%5D=Personnalit%C3%A9&amp;filtrerParDomaine%5B0%5D=Images%20fixes&amp;s=dateDePriseDeVue&amp;so=desc&amp;pos=640&amp;pgn=41">https://collections.albert-kahn.hauts-de-seine.fr/document/proprit-d-albert-kahn-boulogne-france-rabindranth-tagore/617a7a45cf8b8968b3386442?filtrerParThme%5B0%5D=Personnalit%C3%A9&amp;filtrerParDomaine%5B0%5D=Images%20fixes&amp;s=dateDePriseDeVue&amp;so=desc&amp;pos=640&amp;pgn=41</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=141867988">Link</a>
   </i>
 </p>
