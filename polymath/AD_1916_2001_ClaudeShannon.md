@@ -7,7 +7,7 @@
 -->
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/C.E._Shannon._Tekniska_museet_43069_%28cropped%29.jpg" width="300" alt="Claude Shannon">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg/960px-C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg" width="300" alt="Claude Shannon">
   <br>
   Shannon circa 1950s
   <br><i>
