@@ -7,8 +7,10 @@
 
 <!--
 <p align="left">
-  <a href="image link here" alt="name here"  width="300"></a><br>name here<br>
-  <i>By provider here
+  <img src="image link here" width="300" alt="name here"><br>
+  name here<br>
+  <i>
+  By provider here
   </i>
 </p>
 

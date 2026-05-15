@@ -6,7 +6,8 @@
 -->
 
 <p align="left">
-  <a href="https://commons.wikimedia.org/wiki/File:Socrate_du_Louvre.jpg#/media/File:Socrate_du_Louvre.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Socrate_du_Louvre.jpg" alt="Socrate du Louvre.jpg"  width="300"></a><br>Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Socrate_du_Louvre.jpg" alt="Socrate du Louvre.jpg"  width="300"></a><br>
+  Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.<br>
   <i>By <a href="//commons.wikimedia.org/wiki/User:Sting" title="User:Sting">Sting</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=96296061">Link</a></i>
 </p>
 

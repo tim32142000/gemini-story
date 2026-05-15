@@ -23,6 +23,7 @@ Mitchell Feigenbaum 的學術生涯並非典型的步步高昇，反而充滿了
 
 #### 洛斯阿拉莫斯的沉思
 1970 年代中期，他在洛斯阿拉莫斯國家實驗室（Los Alamos National Laboratory）工作。那段時間他幾乎沒有發表任何論文，而是沉溺在手持計算機（HP-65）的運算中，反覆觀察簡單非線性方程（如邏輯映射 Logistic Map）的倍週期分叉現象。
+ <br> <br>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HP-65_Programmable_Calculator_%28edited_to_remove_background%2C_optimized_colours%29.jpg/960px-HP-65_Programmable_Calculator_%28edited_to_remove_background%2C_optimized_colours%29.jpg" width="200" alt="HP-65 keyboard and display">

@@ -14,9 +14,11 @@
   </i>
 </p>
 
----
+<br><br>
 
 **普朗克（Max Karl Ernst Ludwig Planck）** 的故事之所以動人，是因為他並非天生的「反叛者」，而是一個極致的「守護者」。他的一生是「悲劇性的英雄主義」縮影：他原本只想在經典物理的框架下尋求真理，卻意外開啟了量子革命。充滿了對科學的忠誠，以及晚年痛失四名子女與反對納粹暴政的個人悲劇，展現了極高的人格襟懷。  
+
+---
 
 ### 1. 普朗克的青少年時期
 
@@ -76,7 +78,7 @@ $$E=hν$$
 > "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
 > ―― Max Planck
 
-這句話出自物理學家馬克斯·普朗克（Max Planck）1932年的著作《科學去向何處？》（Where is Science Going?）。它反映了普朗克在晚年對**觀測者與客觀現實**之間關係的深刻哲學思考：由於人類本身即是自然界的一員，我們的意識與存在會與研究對象交織在一起，因此科學研究永遠存在一個無法完全跳脫的「自我循環」限制。
+這句話出自物理學家馬克斯·普朗克（Max Planck）1932年的著作《科學去向何處？》（*Where is Science Going?*）。它反映了普朗克在晚年對**觀測者與客觀現實**之間關係的深刻哲學思考：由於人類本身即是自然界的一員，我們的意識與存在會與研究對象交織在一起，因此科學研究永遠存在一個無法完全跳脫的「自我循環」限制。
 
 ---
 ### 1. 時代背景：經典物理的瓦解
