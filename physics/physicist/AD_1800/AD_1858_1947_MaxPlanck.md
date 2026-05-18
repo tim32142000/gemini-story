@@ -69,10 +69,6 @@ $$E=hν$$
 在二戰期間，普朗克選擇留在德國。他曾當面與希特勒對質，試圖保住猶太裔科學家（如哈伯），雖然最終失敗，但他始終拒絕加入納粹黨。晚年的他在美軍的護送下才離開戰火中的哥廷根，但他從未放棄對真理與科學尊嚴的追求。
 
 ---
-
-> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
-
----
 ## 我們自己就是我們的謎題
 > 「科學不能解決自然的最終謎題。這是因為，在最後的分析中，我們自己就是我們試圖解決的謎題的一部分。」  
 > "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
@@ -109,9 +105,13 @@ $$E=hν$$
 
 1. **認知的循環性：** 我們用大腦研究大腦，用物質研究物質的起源。
 
-2. **科學的邊界：** 科學能解釋「事物如何運作」（How），但或許永遠無法解釋「為什麼會有事物存在」（Why）。
+2. **科學的邊界：** 科學能解釋「事物如何運作」（How），但或許永遠無法解釋「為什麼會有事物存在」（Why）。  
 
-   「我們自己就是我們試圖解決的謎題的一部分。」這不僅是物理學的結論，更是一種對人類智力極限的哲學承認。  
+「我們自己就是我們試圖解決的謎題的一部分。」這不僅是物理學的結論，更是一種對人類智力極限的哲學承認。  
+
+---
+
+> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
 
 ---
 
