@@ -70,9 +70,9 @@ $$E=hν$$
 
 ---
 ## 我們自己就是我們的謎題
-> 「科學不能解決自然的最終謎題。這是因為，在最後的分析中，我們自己就是我們試圖解決的謎題的一部分。」  
-> "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
-> ―― Max Planck
+「科學不能解決自然的最終謎題。這是因為，在最後的分析中，我們自己就是我們試圖解決的謎題的一部分。」  
+"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
+―― Max Planck
 
 這句話出自物理學家馬克斯·普朗克（Max Planck）1932年的著作《科學去向何處？》（*Where is Science Going?*）。它反映了普朗克在晚年對**觀測者與客觀現實**之間關係的深刻哲學思考：由於人類本身即是自然界的一員，我們的意識與存在會與研究對象交織在一起，因此科學研究永遠存在一個無法完全跳脫的「自我循環」限制。
 
@@ -103,15 +103,13 @@ $$E=hν$$
 
 在當代的物理學（如弦論、量子宇宙學）以及神經科學中，這句話依然震聾發聵。它提醒我們：
 
-1. **認知的循環性：** 我們用大腦研究大腦，用物質研究物質的起源。
+- **認知的循環性：** 我們用大腦研究大腦，用物質研究物質的起源。
 
-2. **科學的邊界：** 科學能解釋「事物如何運作」（How），但或許永遠無法解釋「為什麼會有事物存在」（Why）。  
+- **科學的邊界：** 科學能解釋「事物如何運作」（How），但或許永遠無法解釋「為什麼會有事物存在」（Why）。  
 
 「我們自己就是我們試圖解決的謎題的一部分。」這不僅是物理學的結論，更是一種對人類智力極限的哲學承認。  
 
----
 
-> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
 
 ---
 
@@ -211,3 +209,17 @@ $$E=hν$$
 | **1920s** | 雖然貴為量子之父，但他始終對「機率解釋」感到不安，試圖回歸決定論。 |
 | **1945** | 柏林住所被炸毀，珍貴的手稿與藏書付之一炬。 |
 | **1947** | 於哥廷根逝世，墓碑上僅刻著他的名字與那個改變世界的常數 $h$。 |
+
+---
+
+## 佳句
+
+"A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."  
+
+
+
+「為研究者帶來快樂的，不是對真理的佔有，而是成功爭取真理的過程；因為任何停滯不前，長遠來看都會讓人疲憊與懈怠。」  
+—— 普朗克化用戈特霍爾德·埃弗拉伊姆·萊辛
+
+「使人具有價值的，不是他所佔有或自以為佔有的真理，而是他為了尋求真理所付出的真誠努力。[...] 佔有真理會讓人安逸、懈怠、驕傲——」
+—— 萊辛
