@@ -64,7 +64,7 @@
 #### 萊辛的底線與信念
 
 萊辛有一句名言，完美詮釋了他對真理的態度：  
-「如果上帝把所有的真理握在右手，把追求真理的終身渴望、哪怕伴隨著永遠的錯誤，握在左手，並對我說：『選擇吧！』我會虔誠地跪倒在祂的左手前，說：『父啊，給我這個吧！純粹的真理只屬於祢。』」
+「如果上帝把所有的真理握在右手；把追求真理的終身渴望、哪怕伴隨著永遠的錯誤，握在左手，並對我說：『選擇吧！』我會虔誠地跪倒在祂的左手前，說：『父啊，給我這個吧！純粹的真理只屬於祢。』」
 
 ### 低谷期的決策模型：從論戰到舞台的華麗轉身
 
@@ -109,3 +109,5 @@
 
  “The true value of man is not determined by his possession, supposed or real, of Truth, but rather by his sincere exertion to get to the Truth. It is not possession of Truth by which he extends his powers and in which his ever-growing perfectability is to be found. Possession makes one passive, indolent and proud. If God were to hold all Truth concealed in his right hand, and in his left only the steady and diligent drive for Truth, albeit with the proviso that I would always and forever err in the process, and to offer me the choice, I would with all humility take the left hand. ”  
 ― Gotthold Lessing 
+
+---

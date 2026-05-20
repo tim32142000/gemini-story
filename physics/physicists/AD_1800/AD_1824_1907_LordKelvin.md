@@ -18,7 +18,7 @@
 
 <br><br>
 
-**威廉·湯姆森，克耳文勳爵（William Thomson, 1st Baron Kelvin）** 是 19 世紀最具影響力的物理學家之一，他在熱力學第二定律的制定、絕對溫標（Absolute temperature scale）的建立以及大西洋海底電纜的工程實現上做出了卓越貢獻。
+**威廉·湯姆森，克耳文勳爵（William Thomson, 1st Baron Kelvin）** 是 19 世紀具影響力的物理學家，他在熱力學第二定律的制定、絕對溫標（Absolute temperature scale）的建立以及大西洋海底電纜的工程實現上做出了卓越貢獻。
 
 ---
 
