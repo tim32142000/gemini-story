@@ -1,8 +1,8 @@
-# RK45（Runge-Kutta-Fehlberg method）
+# RKF45（Runge-Kutta-Fehlberg method）
 
-**RK45（又稱 Runge-Kutta-Fehlberg method）** 的核心在於「嵌入式誤差估計」（Embedded Error Estimation）。它在一個步長內同時計算出四階與五階兩個解，利用兩者的差值作為局部誤差的指標，進而動態調整步長（Adaptive Step Size）。
+**RKF45（又稱 Runge-Kutta-Fehlberg method）** 的核心在於「嵌入式誤差估計」（Embedded Error Estimation）。它在一個步長內同時計算出四階與五階兩個解，利用兩者的差值作為局部誤差的指標，進而動態調整步長（Adaptive Step Size）。
 
-## 數字的舵手：Erwin Fehlberg 與 RK45 的誕生
+## 數字的舵手：Erwin Fehlberg 與 RKF45 的誕生
 
 在 1960 年代，人類的野心正航向月球。對於 NASA 的工程師來說，最大的挑戰之一不是燃料，而是**精準度**。
 
@@ -18,11 +18,11 @@ Fehlberg 意識到，如果我們想讓程式自動判斷何時該加速（放�
 
 最天才的地方在於：這兩個不同階數的解，幾乎共享所有的中間運算步驟（Stages）。
 
-### RK45 的勝利
+### RKF45 的勝利
 
-這就是著名的 **RK45**。它透過比較 4 階與 5 階解之間的微小差異來判斷誤差。
+這就是著名的 **RKF45**。它透過比較 4 階與 5 階解之間的微小差異來判斷誤差。
 
-- 如果差異太小，代表目前路徑很平滑，RK45 會大膽地**增加步長**，節省運算資源。
+- 如果差異太小，代表目前路徑很平滑，RKF45 會大膽地**增加步長**，節省運算資源。
 
 - 如果差異太大，它會立刻**收縮步長**，細細刻畫曲線的變化。
 
