@@ -141,3 +141,9 @@ K（耦合強度）
 無論是心臟科醫生在分析心律不整（心肌細胞與外部節律器的同步流失）、電力工程師在防止電網大規模跳電、還是天文學家在計算行星的軌道共振（例如木星衛星的拉普拉斯共振），只要涉及到「兩個頻率的互相拉扯」，科學家們的大腦裡，會浮現那一條條優雅伸出的阿諾爾德舌頭。
 
 ---
+
+## Quotes
+
+"Mathematics is a part of physics. Physics is an experimental science, a part of natural science. Mathematics is the part of physics where experiments are cheap. "
+
+---

@@ -22,14 +22,14 @@ Oleksandr Sharkovsky 出生於烏克蘭基輔。他的一生與**基輔大學（
 
 ### 震撼世界的發現：Sharkovsky 定理
 
-1964 年，年僅 28 歲的夏科夫斯基發表了一篇名為《連續映射在實數線上的週期共存性》的論文。這篇論文提出了一個極其優美的排序方式，現在被稱為 **Sharkovsky 排序 (Sharkovsky ordering)**：
+1964 年，年僅 28 歲的夏科夫斯基發表了一篇名為《連續映射在實數線上的週期共存性》（Coexistence of Cycles of a Continuous Map of the Real Line Into Itself）的論文。這篇論文提出了一個極其優美的排序方式，現在被稱為 **Sharkovsky 排序 (Sharkovsky ordering)**：
 
 $$3 \rhd 5 \rhd 7 \rhd \dots \rhd 2 \cdot 3 \rhd 2 \cdot 5 \rhd \dots \rhd 2^2 \cdot 3 \rhd \dots \rhd 2^3 \rhd 2^2 \rhd 2 \rhd 1$$
 
 這個定理告訴我們：如果一個連續函數在實數線上擁有週期為 $n$ 的軌道，那麼它也必然擁有在排序中位於 $n$ 右側的所有週期的軌道。  
-<br>
 
-歷史的巧合：  
+
+#### 歷史的巧合  
 這項發現最初在西方幾乎不為人知。直到 1975 年，Li 和 Yorke 發表了著名的論文《週期三意味著混沌》(Period Three Implies Chaos)，西方數學界才驚覺，原來夏科夫斯基早在十多年前就已經證明了比這更一般化的結論。
 
 ### 科學哲學與個人風格

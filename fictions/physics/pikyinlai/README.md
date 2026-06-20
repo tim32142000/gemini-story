@@ -15,7 +15,7 @@
 * [第一章：高分子的低語](chapters/ch1.md)
 * [第二章：漲落中的真理](chapters/ch2.md)
 * [第三章：守望者的長跑](chapters/ch3.md)
-* [第四章：健雄館的寒冬與暖流](chapters/ch4.md)
+* [第四章：健雄館的寒冬與溫暖](chapters/ch4.md)
 
 ---
 
