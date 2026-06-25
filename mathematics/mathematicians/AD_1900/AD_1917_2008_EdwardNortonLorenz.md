@@ -43,11 +43,13 @@
 
 1963年，勞倫茲將這項發現發表在《大氣科學雜誌》（*Journal of the Atmospheric Sciences*）上，論文名為《決定性非週期流》（Deterministic Nonperiodic Flow）。他在文中將方程式簡化為三個非線性微分方程：
 
+
 $$\begin{aligned}
-\frac{dx}{dt} &= \sigma(y - x) \\\\
+\frac{dx}{dt} &= \sigma(y - x)  \\\\
 \frac{dy}{dt} &= x(\rho - z) - y \\\\
 \frac{dz}{dt} &= xy - \beta z
 \end{aligned}$$
+
 
 當他在三維空間中畫出這些方程的解的軌跡時，發現軌跡永遠不會重複，也不會交叉，而是纏繞成一個雙螺旋結構，外觀極像一隻展翅的蝴蝶。這個幾何結構後來被稱為「勞倫茲吸引子（Lorenz Attractor）」。
 
