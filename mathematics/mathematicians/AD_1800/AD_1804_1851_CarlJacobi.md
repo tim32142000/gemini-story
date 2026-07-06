@@ -1,8 +1,10 @@
-# Carl Jacobi (1804–1851)  
+# Carl Gustav Jacob Jacobi (1804–1851)  
 
+<!--
 > 「數學／科學 唯一的目的，是為了人類心靈的榮耀。」   
 >  "The sole end of mathematics/science is the honor of the human mind."  
 > —— Carl Jacobi
+-->
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carl_Jacobi.jpg" width="300" alt="Carl Jacobi">
